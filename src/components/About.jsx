@@ -33,7 +33,7 @@ function About() {
           {portfolioMap}
         </div>
         <Switch>
-          <Route path="/About/:heroesID">
+          <Route path="/About/:personID">
             <PortfolioDetail />
           </Route>
         </Switch>
