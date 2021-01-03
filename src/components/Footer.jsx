@@ -12,10 +12,7 @@ function Footer() {
       <div className="container">
         <button onClick={toggleTheme} className="btn btn-dark">
           {theme} Mode{" "}
-        </button>
-        <p className="float-end mb-1">
-          <a href="#">Back to top</a>
-        </p>
+        </button>        
         <p className="mb-1">
           Album example is © Bootstrap, but please download and customize it for
           yourself!
