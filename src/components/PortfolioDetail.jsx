@@ -14,7 +14,7 @@ function PortfolioDetail(props) {
           <img src={`${item.imgURL}`} />
         </div>
         <h1 className="mb-3">{item.title}</h1>
-        <p>{item.detail}</p>
+        <p className="department">{item.detail}</p>
       </div>
     )
   );

@@ -6,3 +6,9 @@ h1, p {
 li {
   list-style: none;;
 }
+h1{
+   text-align: center;
+}
+.department{
+   text-align: center;
+}
